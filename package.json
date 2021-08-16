@@ -1,7 +1,7 @@
 {
-  "name": "your-project-name",
+  "name": "goit-react-hw-02-phonebook",
   "version": "0.1.0",
-  "homepage": "https://victoriadanilenko.github.io/your-project-name",
+  "homepage": "https://victoriadanilenko.github.io/goit-react-hw-02-phonebook",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
