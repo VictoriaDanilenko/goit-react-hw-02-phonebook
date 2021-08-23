@@ -9,12 +9,12 @@ const Main = styled.main`
     max-width: 700px;
   }
   .phonebook_title {
-    color: #0d5667;
+    color: teal;
     margin-bottom: 30px;
     text-align: center;
   }
   .contacts_title {
-    color: #286671;
+    color: teal;
     margin-bottom: 20px;
     text-align: center;
   }

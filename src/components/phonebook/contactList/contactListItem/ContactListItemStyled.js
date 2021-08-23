@@ -12,7 +12,7 @@ const ListItem = styled.li`
     margin-bottom: 15px;
   }
   &:hover {
-    background-color: #f8f4fa;
+    background-color: teal;
     border: 1px solid #a75ee1;
     box-shadow: 5px 5px 11px 2px rgba(143, 108, 193, 0.45);
   }

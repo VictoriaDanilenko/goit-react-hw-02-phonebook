@@ -33,7 +33,7 @@ const Form = styled.form`
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #7915c5;
+    background-color: slateblue;
     border-color: #7915c5;
     border-radius: 5px;
     transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
